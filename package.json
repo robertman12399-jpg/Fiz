@@ -1,0 +1,7 @@
+{
+  "name": "fizmat-rpg",
+  "private": true,
+  "scripts": {
+    "build": "python build.py"
+  }
+}
